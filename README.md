@@ -2,4 +2,4 @@
 activitylifecycleintroduction-laureeeengarcia created by Classroom for GitHub
 
 
-https://cloud.githubusercontent.com/assets/14812821/11620340/d6773d90-9cec-11e5-9c3c-329c2c9cb589.PNG
+https://cloud.githubusercontent.com/assets/14812821/11620584/22c9aed8-9cef-11e5-902d-07fd652189b2.PNG
